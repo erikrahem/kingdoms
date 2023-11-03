@@ -6,10 +6,13 @@
 Soldiers
 
 ### Blacksmith
-Resources
+Equipments
 
 ### Farm
 Food
+
+### Mine
+Resources
 
 ### Temple
 Religion
