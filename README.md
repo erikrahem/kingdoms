@@ -27,5 +27,7 @@ Trade with other players
 
 ## Concepts
 Culture
+  
 Doctrines
+  
 Religion
