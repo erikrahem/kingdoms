@@ -17,10 +17,15 @@ Food
 Resources
 
 ### Temple
-Religion
+
 
 ### Village
 People
 
 ## Market
 Trade with other players
+
+## Concepts
+Culture
+Doctrines
+Religion
