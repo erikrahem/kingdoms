@@ -8,10 +8,10 @@ Build
 Soldiers
 
 ### Blacksmith
-Equipments
+Equipment
 
 ### Farm
-Foods
+Food
 
 ### Mine
 Resources
