@@ -30,4 +30,6 @@ Culture
   
 Doctrines
   
+Gold
+  
 Religion
