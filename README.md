@@ -1,6 +1,8 @@
 # Kingdoms
+Persistent world building MMO
 
 ## Buildables
+Build
 
 ### Barracks
 Soldiers
@@ -19,3 +21,6 @@ Religion
 
 ### Village
 People
+
+## Market
+Trade with other players
