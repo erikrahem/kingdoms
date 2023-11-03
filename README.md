@@ -11,7 +11,7 @@ Soldiers
 Equipments
 
 ### Farm
-Food
+Foods
 
 ### Mine
 Resources
