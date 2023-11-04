@@ -1,4 +1,4 @@
 Gold  
 Silver  
-Iron  
-Copper
+Copper  
+Iron
