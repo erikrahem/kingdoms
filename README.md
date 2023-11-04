@@ -13,6 +13,8 @@ Equipment
 ### Farm
 Food
 
+### Laboratory
+
 ### Mine
 Resources
 
