@@ -1,2 +1,7 @@
 Bronze  
-Steel
+Steel  
+
+Equipment  
+Helmets  
+Armors  
+Weapons
