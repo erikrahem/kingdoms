@@ -32,6 +32,6 @@ Culture
   
 Doctrines
   
-Gold
+Gold coins
   
 Religion
