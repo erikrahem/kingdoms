@@ -1,0 +1,8 @@
+Metals
+Copper
+Gold
+Iron
+Silver
+
+Bronze
+Steel
