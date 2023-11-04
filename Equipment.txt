@@ -1,0 +1,4 @@
+Helmets
+Armors
+Shields
+Weapons
