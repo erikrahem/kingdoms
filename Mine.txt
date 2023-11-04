@@ -1,4 +1,4 @@
-Gold  
-Silver  
-Copper  
-Iron
+Gold mine (1000 G)
+Silver mine (500 G)
+Iron mine (200 G)
+Copper mine (100 G)
