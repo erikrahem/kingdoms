@@ -1,5 +1,5 @@
 # Kingdoms
-Persistent world building MMO
+Persistent world economy building MMO
 
 ## Buildables
 Build
