@@ -4,4 +4,5 @@ Steel
 Equipment  
 Helmets  
 Armors  
+Shields
 Weapons
