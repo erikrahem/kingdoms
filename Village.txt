@@ -8,4 +8,5 @@ City  (10 000 G)
 100 G per day
 
 Hunger
+Population
 Starvation
