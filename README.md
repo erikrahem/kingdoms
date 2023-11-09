@@ -2,7 +2,7 @@
 Persistent world economy building MMO
 
 ## Buildables
-Build
+Requires money and population to build
 
 ### Barracks
 Soldiers
