@@ -1,6 +1,11 @@
 Village  (100 G)
+1 G per day
+
 Town  (1000 G)
+10 G per day
+
 City  (10 000 G)
+100 G per day
 
 Hunger
 Starvation
